@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SchoolFormsapp/1.0.0": {
+        "dependencies": {
+          "SchoolLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SchoolFormsapp.dll": {}
+        }
+      },
+      "SchoolLibrary/1.0.0": {
+        "runtime": {
+          "SchoolLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchoolFormsapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchoolLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

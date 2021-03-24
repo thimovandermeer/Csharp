@@ -1,0 +1,15 @@
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/bin/Debug/netcoreapp3.1/SchoolFormsapp.deps.json
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/bin/Debug/netcoreapp3.1/SchoolFormsapp.runtimeconfig.json
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/bin/Debug/netcoreapp3.1/SchoolFormsapp.runtimeconfig.dev.json
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/bin/Debug/netcoreapp3.1/SchoolFormsapp.dll
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/bin/Debug/netcoreapp3.1/SchoolFormsapp.pdb
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/bin/Debug/netcoreapp3.1/SchoolLibrary.dll
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/bin/Debug/netcoreapp3.1/SchoolLibrary.pdb
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/obj/Debug/netcoreapp3.1/SchoolFormsapp.csprojAssemblyReference.cache
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/obj/Debug/netcoreapp3.1/SchoolFormsapp.AssemblyInfoInputs.cache
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/obj/Debug/netcoreapp3.1/SchoolFormsapp.AssemblyInfo.cs
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/obj/Debug/netcoreapp3.1/SchoolFormsapp.csproj.CoreCompileInputs.cache
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/obj/Debug/netcoreapp3.1/SchoolFormsapp.csproj.CopyComplete
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/obj/Debug/netcoreapp3.1/SchoolFormsapp.dll
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/obj/Debug/netcoreapp3.1/SchoolFormsapp.pdb
+/Users/thimovandermeer/Projects/Test/SchoolFormsapp/obj/Debug/netcoreapp3.1/SchoolFormsapp.genruntimeconfig.cache
